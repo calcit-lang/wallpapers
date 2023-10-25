@@ -15,29 +15,86 @@
                   cursor $ or (:cursor states) ([])
                   state $ or (:data states)
                     {} $ :content "\""
+                  images-list $ load-cirru-data
                 div
-                  {} $ :class-name (str-spaced css/global css/row)
-                  textarea $ {}
-                    :value $ :content state
-                    :placeholder "\"Content"
-                    :class-name $ str-spaced css/expand css/textarea
-                    :style $ {} (:height 320)
-                    :on-input $ fn (e d!)
-                      d! cursor $ assoc state :content (:value e)
-                  =< 8 nil
+                  {} $ :class-name (str-spaced css/global)
                   div
-                    {} $ :class-name css/expand
-                    <> "|This is some content with `code`"
-                    =< |8px nil
-                    button $ {} (:class-name css/button) (:inner-text "\"Run")
-                      :on-click $ fn (e d!)
-                        println $ :content state
+                    {} $ :class-name (str-spaced style-title css/font-fancy)
+                    <> "\"Wallpapers"
+                  list->
+                    {}
+                      :class-name $ str-spaced css/row style-list
+                      :style $ {} (:flex-wrap :wrap) (:margin "\"40px")
+                    -> images-list $ map-indexed
+                      fn (idx info)
+                        [] idx $ comp-image-card info
+                  =< nil 120
                   when dev? $ comp-reel (>> states :reel) reel ({})
+        |comp-image-card $ %{} :CodeEntry (:doc |)
+          :code $ quote
+            defcomp comp-image-card (info)
+              div
+                {} (:class-name style-image-card)
+                  :on-click $ fn (e d!)
+                    js/window.open (:url info) "\"_blank"
+                  :style $ {}
+                    :background-image $ str "\"url(" (:url info) "\"?imageView2/q/80/2/w/400/h/400" "\")"
+                div
+                  {}
+                    :class-name $ str-spaced style-image-info css/font-fancy
+                    :on-click $ fn (e d!) :skip
+                  div ({})
+                    <> $ :name info
+                    =< 8 nil
+                    a $ {}
+                      :href $ :address info
+                      :target "\"_blank"
+                      :inner-text "\"Source"
+                      :class-name css/link
+        |load-cirru-data $ %{} :CodeEntry (:doc |)
+          :code $ quote
+            defmacro load-cirru-data () $ &data-to-code
+              parse-cirru-edn $ read-file "\"content/images.cirru"
+        |style-image-card $ %{} :CodeEntry (:doc |)
+          :code $ quote
+            defstyle style-image-card $ {}
+              "\"&" $ let
+                  w 480
+                  h $ * 9 (/ w 16)
+                {} (:width w) (:background-position "\"center") (:background-size "\"480px") (:height h) (:position :relative) (:border-radius "\"8px") (:cursor :pointer) (:transition-duration "\"400ms")
+                  :box-shadow $ str "\"0 0 4px " (hsl 0 0 100 0.4)
+              "\"&:hover" $ {} (:background-size "\"520px")
+                :box-shadow $ str "\"0 0 4px" (hsl 0 0 100 0.8)
+        |style-image-info $ %{} :CodeEntry (:doc |)
+          :code $ quote
+            defstyle style-image-info $ {}
+              "\"&" $ {} (:position :absolute) (:bottom 0) (:left 0) (:width "\"100%") (:height 40)
+                :background-color $ hsl 0 0 0 0.7
+                :color :white
+                :padding "\"4px 8px"
+                :opacity 0.6
+                :transition-duration "\"200ms"
+                :border-radius "\"0px 0px 8px 8px"
+                :cursor :default
+                :transition-delay "\"0ms"
+              "\"&:hover" $ {} (:opacity 1) (; :height 80) (; :transition-delay "\"200ms")
+        |style-list $ %{} :CodeEntry (:doc |)
+          :code $ quote
+            defstyle style-list $ {}
+              "\"&" $ {} (:display :grid) (:grid-template-columns "\"repeat(auto-fit, minmax(480px, 1fr))") (:gap "\"12px")
+        |style-title $ %{} :CodeEntry (:doc |)
+          :code $ quote
+            defstyle style-title $ {}
+              "\"&" $ {} (:text-align :center) (:padding "\"80px 0 20px")
+                :color $ hsl 0 0 100 0.8
+                :font-size 80
+                :font-weight 300
       :ns $ %{} :CodeEntry (:doc |)
         :code $ quote
           ns app.comp.container $ :require (respo-ui.css :as css)
+            respo.util.format :refer $ hsl
             respo.css :refer $ defstyle
-            respo.core :refer $ defcomp defeffect <> >> div button textarea span input
+            respo.core :refer $ defcomp defeffect <> >> list-> div button textarea span input a
             respo.comp.space :refer $ =<
             reel.comp.reel :refer $ comp-reel
             app.config :refer $ dev?
