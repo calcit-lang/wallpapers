@@ -63,8 +63,9 @@
                   h $ * 9 (/ w 16)
                 {} (:width w) (:background-position "\"center") (:background-size "\"480px") (:height h) (:position :relative) (:border-radius "\"8px") (:cursor :pointer) (:transition-duration "\"400ms")
                   :box-shadow $ str "\"0 0 4px " (hsl 0 0 100 0.4)
+                  :max-width "\"calc(90vw - 40px)"
               "\"&:hover" $ {} (:background-size "\"520px")
-                :box-shadow $ str "\"0 0 4px" (hsl 0 0 100 0.8)
+                :box-shadow $ str "\"0 0 4px " (hsl 0 0 100 0.8)
         |style-image-info $ %{} :CodeEntry (:doc |)
           :code $ quote
             defstyle style-image-info $ {}

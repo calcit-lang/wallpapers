@@ -31,3 +31,10 @@ body * {
 ::-webkit-resizer {
   background-color:transparent;
 }
+
+@media screen and (max-width: 600px) {
+  /* tricky code overwrite title */
+  div.style-title__app_comp_container {
+    font-size: 60px;
+  }
+}

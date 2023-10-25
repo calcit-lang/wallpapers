@@ -392,6 +392,10 @@
                                           |h $ %{} :Leaf (:at 1698256383048) (:by |rJG4IHzWf) (:text |0)
                                           |l $ %{} :Leaf (:at 1698256383700) (:by |rJG4IHzWf) (:text |100)
                                           |o $ %{} :Leaf (:at 1698256395047) (:by |rJG4IHzWf) (:text |0.4)
+                              |v $ %{} :Expr (:at 1698257672285) (:by |rJG4IHzWf)
+                                :data $ {}
+                                  |T $ %{} :Leaf (:at 1698257674644) (:by |rJG4IHzWf) (:text |:max-width)
+                                  |b $ %{} :Leaf (:at 1698257695734) (:by |rJG4IHzWf) (:text "|\"calc(90vw - 40px)")
                   |h $ %{} :Expr (:at 1698256152253) (:by |rJG4IHzWf)
                     :data $ {}
                       |T $ %{} :Leaf (:at 1698256155651) (:by |rJG4IHzWf) (:text "|\"&:hover")
@@ -408,7 +412,7 @@
                               |b $ %{} :Expr (:at 1698256401809) (:by |rJG4IHzWf)
                                 :data $ {}
                                   |T $ %{} :Leaf (:at 1698256401809) (:by |rJG4IHzWf) (:text |str)
-                                  |b $ %{} :Leaf (:at 1698256421175) (:by |rJG4IHzWf) (:text "|\"0 0 4px")
+                                  |b $ %{} :Leaf (:at 1698257664160) (:by |rJG4IHzWf) (:text "|\"0 0 4px ")
                                   |h $ %{} :Expr (:at 1698256401809) (:by |rJG4IHzWf)
                                     :data $ {}
                                       |T $ %{} :Leaf (:at 1698256401809) (:by |rJG4IHzWf) (:text |hsl)
