@@ -64,6 +64,7 @@
                 {} (:width w) (:background-position "\"center") (:background-size "\"480px") (:height h) (:position :relative) (:border-radius "\"8px") (:cursor :pointer) (:transition-duration "\"400ms")
                   :box-shadow $ str "\"0 0 4px " (hsl 0 0 100 0.4)
                   :max-width "\"calc(90vw - 40px)"
+                  :justify-self :center
               "\"&:hover" $ {} (:background-size "\"520px")
                 :box-shadow $ str "\"0 0 4px " (hsl 0 0 100 0.8)
         |style-image-info $ %{} :CodeEntry (:doc |)
@@ -87,9 +88,12 @@
           :code $ quote
             defstyle style-title $ {}
               "\"&" $ {} (:text-align :center) (:padding "\"80px 0 20px")
-                :color $ hsl 0 0 100 0.8
+                :color $ hsl 0 0 100 0.5
                 :font-size 80
-                :font-weight 300
+                :font-weight 100
+                :user-select :none
+              "\"& span:hover" $ {}
+                :text-shadow $ str "\"2px 2px 8px " (hsl 0 0 100 0.5)
       :ns $ %{} :CodeEntry (:doc |)
         :code $ quote
           ns app.comp.container $ :require (respo-ui.css :as css)
