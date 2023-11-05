@@ -66,3 +66,38 @@
     :url |https://cos-sh.tiye.me/cos-up/d014acc9b8f28bbbc7ea829db13cd4da/localhost_5173__mode=dev&remote-control=true-_bc_10_bo_.png
     :address |https://webgpu.art/soluble/
     :comment nil
+  {}
+    :name "|space calculator random"
+    :url |https://cos-sh.tiye.me/cos-up/ea62c8842e94cc9a92a4e5e7f8ef1675/localhost_5173__mode=dev&remote-control=true-_bc_19_bo_.png
+    :address |https://webgpu.art/soluble/
+    :comment nil
+  {}
+    :name "|Complex fractal partial"
+    :url |https://cos-sh.tiye.me/cos-up/a958b7b514674542dd7b9c2ef29d1a3b/localhost_5173__mode=dev&remote-control=true-_bc_11_bo_.png
+    :address |https://webgpu.art/soluble/
+    :comment nil
+  {}
+    :name "|Complex fractal partial"
+    :url |https://cos-sh.tiye.me/cos-up/901f2f1786bbf58b7cf282006a998191/localhost_5173__mode=dev&remote-control=true-_bc_14_bo_.png
+    :address |https://webgpu.art/soluble/
+    :comment nil
+  {}
+    :name "|Complex fractal partial"
+    :url |https://cos-sh.tiye.me/cos-up/935989133d4ba185a3da9aa45ef82f44/localhost_5173__mode=dev&remote-control=true-_bc_12_bo_.png
+    :address |https://webgpu.art/soluble/
+    :comment nil
+  {}
+    :name "|Complex fractal partial"
+    :url |https://cos-sh.tiye.me/cos-up/51485bfc0cfd02b11edd967574aef87b/localhost_5173__mode=dev&remote-control=true-_bc_15_bo_.png
+    :address |https://webgpu.art/soluble/
+    :comment nil
+  {}
+    :name "|Complex fractal partial"
+    :url |https://cos-sh.tiye.me/cos-up/11f1133ed5d339ad59d4394deadbfe05/localhost_5173__mode=dev&remote-control=true-_bc_13_bo_.png
+    :address |https://webgpu.art/soluble/
+    :comment nil
+  {}
+    :name "|Complex fractal partial"
+    :url |https://cos-sh.tiye.me/cos-up/22b7817f6a7936785883f52dd8869791/localhost_5173__mode=dev&remote-control=true-_bc_17_bo_.png
+    :address |https://webgpu.art/soluble/
+    :comment nil
