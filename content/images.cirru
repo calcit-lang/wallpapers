@@ -101,3 +101,68 @@
     :url |https://cos-sh.tiye.me/cos-up/22b7817f6a7936785883f52dd8869791/localhost_5173__mode=dev&remote-control=true-_bc_17_bo_.png
     :address |https://webgpu.art/soluble/
     :comment nil
+  {}
+    :name "|Fourwing part"
+    :url |https://cos-sh.tiye.me/cos-up/9539c0f25d16856eb7b00e7989d692eb/pasted-2023-12-17T17:58:11.080Z.png
+    :address |https://webgpu.art/protea
+    :comment |nil
+  {}
+    :name "|Fourwing part"
+    :url |https://cos-sh.tiye.me/cos-up/081780b7e678d912642acb84ba77eeec/pasted-2023-12-17T17:59:42.369Z.png
+    :address |https://webgpu.art/protea
+    :comment |nil
+  {}
+    :name "|Fourwing part"
+    :url |https://cos-sh.tiye.me/cos-up/7d15e22f25b3d38b85e0bc50c10cc74a/pasted-2023-12-17T18:00:17.799Z.png
+    :address |https://webgpu.art/protea
+    :comment |nil
+  {}
+    :name "|Fourwing part"
+    :url |https://cos-sh.tiye.me/cos-up/3a19fb42b3245d3963d26e7e3823cd5e/pasted-2023-12-17T18:01:30.984Z.png
+    :address |https://webgpu.art/protea
+    :comment |nil
+  {}
+    :name "|Fourwing part"
+    :url |https://cos-sh.tiye.me/cos-up/077a58a3d87ab67f8a72bb3e03414ded/pasted-2023-12-17T18:02:33.580Z.png
+    :address |https://webgpu.art/protea
+    :comment |nil
+  {}
+    :name "|Fourwing part"
+    :url |https://cos-sh.tiye.me/cos-up/188c4ff4fce1499dd7acd09b6f20780f/pasted-2023-12-17T18:02:55.447Z.png
+    :address |https://webgpu.art/protea
+    :comment |nil
+  {}
+    :name "|Lorenz"
+    :url |https://cos-sh.tiye.me/cos-up/dc3c61f3040a4f7c6c15f2204f0fe58c/pasted-2023-12-17T18:03:14.300Z.png
+    :address |https://webgpu.art/protea
+    :comment |nil
+  {}
+    :name "|Christmas tree"
+    :url |https://cos-sh.tiye.me/cos-up/b93f86069992d6c432399639d2e090d9/christmas-tree-2.png
+    :address |https://webgpu.art/lutra-crafts
+    :comment |nil
+  {}
+    :name |Bounce
+    :url |https://cos-sh.tiye.me/cos-up/027fd7f687e3165a1bd093459e28ddd8/localhost_5173__mode=dev&remote-control=true-_bc_27_bo_.png
+    :address |https://webgpu.art/protea
+    :comment |nil
+  {}
+    :name |Bounce
+    :url |https://cos-sh.tiye.me/cos-up/a145c0dc23336c6b506c995ad401de96/localhost_5173__mode=dev&remote-control=true-_bc_28_bo_.png
+    :address |https://webgpu.art/protea
+    :comment |nil
+  {}
+    :name "|Fourwing part"
+    :url |https://cos-sh.tiye.me/cos-up/2589b1e20e369d09b18161507d191c0b/fourwing-expand.png
+    :address
+    :comment |nil
+  {}
+    :name "|Fourwing part"
+    :url |https://cos-sh.tiye.me/cos-up/695b95dfcbe601faaa90d024d1f6a3ba/four-wing.png
+    :address |https://webgpu.art/protea
+    :comment |nil
+  {}
+    :name "|Quaternion fractal"
+    :url |https://cos-sh.tiye.me/cos-up/c3a174b608a3005807a0acea04144b77/localhost_5173__mode=dev&remote-control=true-_bc_24_bo_.png
+    :address |https://webgpu.art/protea
+    :comment |nil
