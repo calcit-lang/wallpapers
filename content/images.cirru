@@ -166,3 +166,13 @@
     :url |https://cos-sh.tiye.me/cos-up/c3a174b608a3005807a0acea04144b77/localhost_5173__mode=dev&remote-control=true-_bc_24_bo_.png
     :address |https://webgpu.art/protea
     :comment |nil
+  {}
+    :name "|Lamps"
+    :url |https://cos-sh.tiye.me/cos-up/c2a685bb61df6ae7da18d756efcc6ec0/pasted-2024-03-04T18:35:00.835Z.png
+    :address |https://webgpu.art/protea?tab=lamps
+    :comment |nil
+  {}
+    :name "|Lamps Closer"
+    :url |https://cos-sh.tiye.me/cos-up/293a717a31f1a5835a61786c94c15355/pasted-2024-03-04T18:34:28.993Z.png
+    :address |https://webgpu.art/protea?tab=lamps
+    :comment |nil
