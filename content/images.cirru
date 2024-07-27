@@ -186,3 +186,13 @@
     :url |https://cos-sh.tiye.me/cos-up/f538db5c239b69e96bf6a721e20216ac/poincare-8.png
     :address |https://webgpu.art/soluble?tab=circles
     :comment |nil
+  {}
+    :name "|Sphere Mirror Center"
+    :url |https://cos-sh.tiye.me/cos-up/8cac0e236ae24de86a3b3b2f68d47edf/GQ8AmhtboAAMtgi.jpeg
+    :address |https://webgpu.art/soluble/?tab=sphere-mirror
+    :comment |nil
+  {}
+    :name "|Sphere Mirror Reflections"
+    :url |https://cos-sh.tiye.me/cos-up/db6c628daa55e9493c72e745cdadf22f/pasted-2024-07-18T02:38:54.972Z.png
+    :address |https://webgpu.art/soluble/?tab=hollow-mirror
+    :comment |nil
