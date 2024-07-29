@@ -196,3 +196,28 @@
     :url |https://cos-sh.tiye.me/cos-up/db6c628daa55e9493c72e745cdadf22f/pasted-2024-07-18T02:38:54.972Z.png
     :address |https://webgpu.art/soluble/?tab=hollow-mirror
     :comment |nil
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/286aa541f4bda6785c7e823159889972/pasted-2024-07-28T18:27:33.394Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-fractal-mirror
+    :comment "|z8 + 15z4 − 16"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/a12c7023885f241596e4780ed2d64a72/pasted-2024-07-28T18:28:40.356Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-fractal-mirror
+    :comment "|z8 + 15z4 − 16"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/defec6e39036767b25aa76eda79a82ad/pasted-2024-07-28T18:29:45.501Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-fractal-mirror
+    :comment "|z8 + 15z4 − 16"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/f6a1d7cd0561059ae0653e5f834d5999/pasted-2024-07-28T18:32:19.032Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-fractal-mirror
+    :comment "|z8 + 15z4 − 16"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/3e510860bffc94ec06b56f61201fe78d/pasted-2024-07-29T17:31:09.910Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-fractal-mirror
+    :comment "|z8 + 15z4 − 16"
