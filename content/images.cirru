@@ -199,25 +199,55 @@
   {}
     :name "|Newton Fractal"
     :url |https://cos-sh.tiye.me/cos-up/286aa541f4bda6785c7e823159889972/pasted-2024-07-28T18:27:33.394Z.png
-    :address |https://webgpu.art/soluble/?tab=newton-fractal-mirror
+    :address |https://webgpu.art/soluble/?tab=newton
     :comment "|z8 + 15z4 − 16"
   {}
     :name "|Newton Fractal"
     :url |https://cos-sh.tiye.me/cos-up/a12c7023885f241596e4780ed2d64a72/pasted-2024-07-28T18:28:40.356Z.png
-    :address |https://webgpu.art/soluble/?tab=newton-fractal-mirror
+    :address |https://webgpu.art/soluble/?tab=newton
     :comment "|z8 + 15z4 − 16"
   {}
     :name "|Newton Fractal"
     :url |https://cos-sh.tiye.me/cos-up/defec6e39036767b25aa76eda79a82ad/pasted-2024-07-28T18:29:45.501Z.png
-    :address |https://webgpu.art/soluble/?tab=newton-fractal-mirror
+    :address |https://webgpu.art/soluble/?tab=newton
     :comment "|z8 + 15z4 − 16"
   {}
     :name "|Newton Fractal"
     :url |https://cos-sh.tiye.me/cos-up/f6a1d7cd0561059ae0653e5f834d5999/pasted-2024-07-28T18:32:19.032Z.png
-    :address |https://webgpu.art/soluble/?tab=newton-fractal-mirror
+    :address |https://webgpu.art/soluble/?tab=newton
     :comment "|z8 + 15z4 − 16"
   {}
     :name "|Newton Fractal"
     :url |https://cos-sh.tiye.me/cos-up/3e510860bffc94ec06b56f61201fe78d/pasted-2024-07-29T17:31:09.910Z.png
-    :address |https://webgpu.art/soluble/?tab=newton-fractal-mirror
+    :address |https://webgpu.art/soluble/?tab=newton
     :comment "|z8 + 15z4 − 16"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/0383f42dca827f24ec8515c4449bc9f7/pasted-2024-08-02T18:31:50.534Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/20a08e7b100e9590218a266605025108/pasted-2024-08-02T18:32:18.114Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/0dc3f70cd47ef93e0c2b371c1c049bf7/pasted-2024-08-02T18:32:49.866Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|p(z) = z^5*sin(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/899966c7ed48a1245dc4825d52833656/pasted-2024-08-02T18:33:35.558Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|p(z) = z^5*sin(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/9f6f72db2b1c016ecd2224686f556129/pasted-2024-08-02T18:33:40.903Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|p(z) = z^5*sin(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/aacb5e2361ac0011640518602f448164/pasted-2024-08-02T18:33:47.973Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|p(z) = z^5*sin(z)-1"
