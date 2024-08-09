@@ -251,3 +251,24 @@
     :url |https://cos-sh.tiye.me/cos-up/aacb5e2361ac0011640518602f448164/pasted-2024-08-02T18:33:47.973Z.png
     :address |https://webgpu.art/soluble/?tab=newton
     :comment "|p(z) = z^5*sin(z)-1"
+
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/e4dfeed67f85e94bfb84717f7c2c8a4d/pasted-2024-08-09T18:19:21.464Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/669c980d59810db421f78812ab08ae39/pasted-2024-08-09T18:20:34.437Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/a94f66c1bf5b92fd1d74821b598d53ff/pasted-2024-08-09T18:21:42.541Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/ef96f356e70c5e50f44038bf3b59765e/pasted-2024-08-09T18:23:17.297Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
