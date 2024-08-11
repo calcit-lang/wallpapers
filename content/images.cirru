@@ -272,3 +272,18 @@
     :url |https://cos-sh.tiye.me/cos-up/ef96f356e70c5e50f44038bf3b59765e/pasted-2024-08-09T18:23:17.297Z.png
     :address |https://webgpu.art/soluble/?tab=newton-cosh
     :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/931fdae043348ac473e590a634679379/pasted-2024-08-11T12:55:37.248Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(h)+cos(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/4e8a6ea865906854c8c3126add4a4393/pasted-2024-08-11T12:57:36.791Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(h)+cos(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/6f2c6ceefa3ceb528bb891e8a68e790d/pasted-2024-08-11T12:59:19.380Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(h)+cos(z)-1"
