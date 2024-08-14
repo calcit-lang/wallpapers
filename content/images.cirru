@@ -186,3 +186,104 @@
     :url |https://cos-sh.tiye.me/cos-up/f538db5c239b69e96bf6a721e20216ac/poincare-8.png
     :address |https://webgpu.art/soluble?tab=circles
     :comment |nil
+  {}
+    :name "|Sphere Mirror Center"
+    :url |https://cos-sh.tiye.me/cos-up/8cac0e236ae24de86a3b3b2f68d47edf/GQ8AmhtboAAMtgi.jpeg
+    :address |https://webgpu.art/soluble/?tab=sphere-mirror
+    :comment |nil
+  {}
+    :name "|Sphere Mirror Reflections"
+    :url |https://cos-sh.tiye.me/cos-up/db6c628daa55e9493c72e745cdadf22f/pasted-2024-07-18T02:38:54.972Z.png
+    :address |https://webgpu.art/soluble/?tab=hollow-mirror
+    :comment |nil
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/286aa541f4bda6785c7e823159889972/pasted-2024-07-28T18:27:33.394Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|z8 + 15z4 − 16"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/a12c7023885f241596e4780ed2d64a72/pasted-2024-07-28T18:28:40.356Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|z8 + 15z4 − 16"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/defec6e39036767b25aa76eda79a82ad/pasted-2024-07-28T18:29:45.501Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|z8 + 15z4 − 16"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/f6a1d7cd0561059ae0653e5f834d5999/pasted-2024-07-28T18:32:19.032Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|z8 + 15z4 − 16"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/3e510860bffc94ec06b56f61201fe78d/pasted-2024-07-29T17:31:09.910Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|z8 + 15z4 − 16"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/0383f42dca827f24ec8515c4449bc9f7/pasted-2024-08-02T18:31:50.534Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/20a08e7b100e9590218a266605025108/pasted-2024-08-02T18:32:18.114Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/0dc3f70cd47ef93e0c2b371c1c049bf7/pasted-2024-08-02T18:32:49.866Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|p(z) = z^5*sin(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/899966c7ed48a1245dc4825d52833656/pasted-2024-08-02T18:33:35.558Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|p(z) = z^5*sin(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/9f6f72db2b1c016ecd2224686f556129/pasted-2024-08-02T18:33:40.903Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|p(z) = z^5*sin(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/aacb5e2361ac0011640518602f448164/pasted-2024-08-02T18:33:47.973Z.png
+    :address |https://webgpu.art/soluble/?tab=newton
+    :comment "|p(z) = z^5*sin(z)-1"
+
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/e4dfeed67f85e94bfb84717f7c2c8a4d/pasted-2024-08-09T18:19:21.464Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/669c980d59810db421f78812ab08ae39/pasted-2024-08-09T18:20:34.437Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/a94f66c1bf5b92fd1d74821b598d53ff/pasted-2024-08-09T18:21:42.541Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/ef96f356e70c5e50f44038bf3b59765e/pasted-2024-08-09T18:23:17.297Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/931fdae043348ac473e590a634679379/pasted-2024-08-11T12:55:37.248Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(h)+cos(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/4e8a6ea865906854c8c3126add4a4393/pasted-2024-08-11T12:57:36.791Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(h)+cos(z)-1"
+  {}
+    :name "|Newton Fractal"
+    :url |https://cos-sh.tiye.me/cos-up/6f2c6ceefa3ceb528bb891e8a68e790d/pasted-2024-08-11T12:59:19.380Z.png
+    :address |https://webgpu.art/soluble/?tab=newton-cosh
+    :comment "|cosh(h)+cos(z)-1"
