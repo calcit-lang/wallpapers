@@ -287,3 +287,13 @@
     :url |https://cos-sh.tiye.me/cos-up/6f2c6ceefa3ceb528bb891e8a68e790d/pasted-2024-08-11T12:59:19.380Z.png
     :address |https://webgpu.art/soluble/?tab=newton-cosh
     :comment "|cosh(h)+cos(z)-1"
+  {}
+    :name "|Quaternion Tree"
+    :url |https://cos-sh.tiye.me/cos-up/610c9d05110b955e669cebd74a2c6359/pasted-2024-12-26T15:17:04.391Z.png
+    :address |https://webgpu.art/caterfoil.mbt/?tab=quat-tree
+    :comment "|quaternion tree"
+  {}
+    :name "|Quaternion Tree"
+    :url |https://cos-sh.tiye.me/cos-up/c39f60d94893c1078b4460765ad553dd/pasted-2024-12-26T15:19:50.477Z.png
+    :address |https://webgpu.art/caterfoil.mbt/?tab=quat-tree
+    :comment "|quaternion tree"
