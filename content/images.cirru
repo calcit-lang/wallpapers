@@ -297,3 +297,8 @@
     :url |https://cos-sh.tiye.me/cos-up/c39f60d94893c1078b4460765ad553dd/pasted-2024-12-26T15:19:50.477Z.png
     :address |https://webgpu.art/caterfoil.mbt/?tab=quat-tree
     :comment "|quaternion tree"
+  {}
+    :name "|Hyper Cube Grid"
+    :url |https://cos-sh.tiye.me/cos-up/5b749014bfc50922b0bad5ef655bba8a/pasted-2025-01-02T16:54:21.042Z.png
+    :address |https://webgpu.art/caterfoil.mbt/?tab=hyper-cube-grid
+    :comment "|Hyper Cube Grid"
