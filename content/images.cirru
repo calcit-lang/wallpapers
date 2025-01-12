@@ -302,3 +302,13 @@
     :url |https://cos-sh.tiye.me/cos-up/5b749014bfc50922b0bad5ef655bba8a/pasted-2025-01-02T16:54:21.042Z.png
     :address |https://webgpu.art/caterfoil.mbt/?tab=hyper-cube-grid
     :comment "|Hyper Cube Grid"
+  {}
+    :name "|Hyper Sphere"
+    :url |https://cos-sh.tiye.me/cos-up/4602a4f1d7b463a87628551b237ac5cd/pasted-2025-01-12T17:04:15.471Z.png
+    :address |https://webgpu.art/caterfoil.mbt/?tab=sphere-tess
+    :comment "|Hyper Sphere projected to 2D canvas"
+  {}
+    :name "|Hyper Cubic Array"
+    :url |https://cos-sh.tiye.me/cos-up/0512bae9869c91d58354c895bf450424/pasted-2025-01-12T17:14:05.748Z.png
+    :address |https://webgpu.art/caterfoil.mbt/?tab=cubic-array
+    :comment "|Hyper Cubic Array projected to 2D canvas"
